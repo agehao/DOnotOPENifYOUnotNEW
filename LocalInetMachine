@@ -1,0 +1,4 @@
+browser sync cheat-sheet:
+	1. browser-sync start --server --directory --files "*"     //// start sync in folder you're in
+	2. 
+

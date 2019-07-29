@@ -1,0 +1,6 @@
+git cheat - sheet:
+	1. git ls-tree master   /// watch all files in "master" branch
+	2. git push origin master   /// hui znaet
+	3. git remote add origin https://github.com/agehao/Test.git   /// connect your dir with repo
+	4. git remote set-url origin https://github.com/agehao/DOnotOPENifYOUnotNEW.git /// if you fucked up with previous step
+
